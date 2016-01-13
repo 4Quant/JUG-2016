@@ -4,6 +4,22 @@ The presentation for the Zurich Java User Group on 13 Jan 2016
 - The [slides](https://rawgit.com/4Quant/JUG-2016/master/Slides.html) can be seen here
 - A Demo of our [Quantitative Image Search Engine](https://kmader.shinyapps.io/SearchMachineDemo)
 
+## Founding Apero!
+
+We are delighted to invite you to our official founding apéro on the 22nd of January in Colab Zurich.
+We'd love to give you a little background on the sort of things we've been tinkering away at in our apartments and garages and show you why we think that 2016 is the year of image analysis.
+As listening to any of us talk for more than a few minutes would get a bit dry, we're going to spice things up with a few interactive demos to see how algorithms can improve your outfits, find your long lost celebrity pairing, and even combat terrorists. We'll also be demonstrating a few of our more standard projects looking for cancer, detecting malaria, and counting cars.
+And if even that doesn't excite you, we'll have plenty of snacks, drinks, and good company.
+
+Try and let us know by this Friday the 15th (info@4quant.com), so we can plan a bit better. If not, spontaneous guests are always welcome. Feel free to bring friends and partners along.
+
+Details
+
+Date:  22 January 2016
+Time: from 5PM on
+Location: Colab Zurich / Auer & Co., Sihlquai 131, 8005 Zürich (Entrance on the backside of the building)
+
+
 ## Relevant Links
 
 - [Quantitative Big Imaging Course](http://kmader.github.io/Quantitative-Big-Imaging-2015/)
